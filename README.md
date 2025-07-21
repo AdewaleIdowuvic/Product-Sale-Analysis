@@ -70,7 +70,7 @@ The business experienced *consistent revenue growth year over year*, signaling t
 ✅ *Recommendation*: Analyze what drove this growth (new channels, product launches, seasonal campaigns) and replicate or scale those initiatives across other products or markets.
 
 ### 📦 7. Bulk Transaction Behavior Indicates B2B Sales
-1.12 million units were sold across just 700 transactions — that’s an average of *~1,600 units per transaction*, pointing strongly toward B2B (business-to-business) customers.
+1.12 million units were sold across just 700 transactions, an average of *~1,600 units per transaction*, pointing strongly toward B2B (business-to-business) customers.
 
 ✅  Recommendation: Launch a *B2B loyalty program* or *wholesale-tier pricing*. Provide tailored onboarding and service levels for repeat bulk buyers to improve retention and transaction volume.
 
