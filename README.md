@@ -37,7 +37,9 @@ By combining Excel, Power Query, and Power BI with calculated KPIs and clear vis
 ### 💰 1. Strong Profitability Across Products
 The business achieved a healthy overall *profit margin of 57.93%*, meaning more than half of the revenue translates into profit. This highlights a strong pricing structure and effective cost management.
 
-![Image](https://github.com/user-attachments/assets/11cadc15-b4bd-4cd3-9547-78bbe5b9ccc3)
+<img width="946" height="539" alt="Image" src="https://github.com/user-attachments/assets/1a0f8590-de66-4a0f-ad22-afdbc85f9f61" />
+
+
 
 ✅ *Recommendation*: Maintain current pricing and cost strategy, but regularly monitor input costs to ensure profitability is sustained. Consider reinvesting surplus margin into marketing or product development.
 
@@ -65,7 +67,8 @@ Revenue is highest in *Q4 (October and December)*,this is likely due to seasonal
 ### 📈 6. Steady Year-Over-Year Growth
 The business experienced *consistent revenue growth year over year*, signaling that expansion strategies and market demand are working.
 
-![Image](https://github.com/user-attachments/assets/11cadc15-b4bd-4cd3-9547-78bbe5b9ccc3)
+<img width="946" height="539" alt="Image" src="https://github.com/user-attachments/assets/1a0f8590-de66-4a0f-ad22-afdbc85f9f61" />
+
 
 ✅ *Recommendation*: Analyze what drove this growth (new channels, product launches, seasonal campaigns) and replicate or scale those initiatives across other products or markets.
 
